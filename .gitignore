@@ -1,18 +1,14 @@
-# Python
-__pycache__/
-*.pyc
+# Datasets
+train/
+valid/
+test/
+dataset/
 
-# Envs
-venv/
-.env/
-
-# Outputs
-*.log
-
-# Large model weights (do not commit)
+# Model weights
 *.pt
 *.pth
 
-# OS
-.DS_Store
-Thumbs.db
+# Caches / outputs
+__pycache__/
+*.log
+runs/

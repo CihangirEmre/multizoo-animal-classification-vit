@@ -1,0 +1,83 @@
+[LOW CONFIDENCE] 000003.jpg (True: boar)
+  1. boar - 59.74%
+
+[WRONG PREDICTION] 000001.jpg (True: cow)
+  1. ox - 60.95%
+  2. cow - 39.00%
+  3. eagle - 0.01%
+
+[LOW CONFIDENCE] 000002.jpeg (True: cow)
+  1. cow - 80.51%
+
+[LOW CONFIDENCE] 000004.jpg (True: cow)
+  1. cow - 82.31%
+
+[LOW CONFIDENCE] 000004.jpg (True: deer)
+  1. deer - 72.39%
+
+[LOW CONFIDENCE] 000006.jpeg (True: lizard)
+  1. lizard - 87.46%
+
+[WRONG PREDICTION] 000002.jpg (True: oyster)
+  1. octopus - 35.04%
+  2. oyster - 28.19%
+  3. seahorse - 9.27%
+
+[WRONG PREDICTION] 000005.jpg (True: oyster)
+  1. squid - 73.20%
+  2. octopus - 8.52%
+  3. jellyfish - 4.33%
+
+[LOW CONFIDENCE] 000006.jpg (True: oyster)
+  1. oyster - 50.78%
+
+[WRONG PREDICTION] 000002.jpg (True: panda)
+  1. raccoon - 60.97%
+  2. panda - 24.95%
+  3. bear - 4.01%
+
+[LOW CONFIDENCE] 000002.jpg (True: pig)
+  1. pig - 72.31%
+
+[LOW CONFIDENCE] 000001.jpg (True: rat)
+  1. rat - 68.51%
+
+[WRONG PREDICTION] 000002.jpg (True: rat)
+  1. mouse - 85.86%
+  2. rat - 13.56%
+  3. possum - 0.25%
+
+[LOW CONFIDENCE] 000003.jpg (True: rat)
+  1. rat - 66.18%
+
+[WRONG PREDICTION] 000004.jpg (True: rat)
+  1. mouse - 90.94%
+  2. rat - 8.79%
+  3. hamster - 0.14%
+
+[WRONG PREDICTION] 000005.jpg (True: rat)
+  1. mouse - 86.75%
+  2. rat - 6.94%
+  3. possum - 6.08%
+
+[WRONG PREDICTION] 000006.jpg (True: rat)
+  1. mouse - 99.13%
+  2. rat - 0.57%
+  3. hamster - 0.14%
+
+[LOW CONFIDENCE] 000006.jpg (True: sandpiper)
+  1. sandpiper - 89.50%
+
+[LOW CONFIDENCE] 000001.jpg (True: seal)
+  1. seal - 58.65%
+
+[WRONG PREDICTION] 000003.jpg (True: whale)
+  1. shark - 99.56%
+  2. whale - 0.25%
+  3. rhinoceros - 0.02%
+
+[WRONG PREDICTION] 000006.jpg (True: whale)
+  1. dolphin - 75.58%
+  2. shark - 20.08%
+  3. whale - 3.54%
+

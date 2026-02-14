@@ -1,0 +1,109 @@
+[LOW CONFIDENCE] bear_59.jpg (True: bear)
+  1. bear - 28.66%
+
+[LOW CONFIDENCE] beetle_26.jpg (True: beetle)
+  1. beetle - 42.09%
+
+[LOW CONFIDENCE] caterpillar_9.jpg (True: caterpillar)
+  1. caterpillar - 57.10%
+
+[LOW CONFIDENCE] dog_28.jpg (True: dog)
+  1. dog - 36.36%
+
+[LOW CONFIDENCE] dog_56.jpg (True: dog)
+  1. dog - 59.08%
+
+[WRONG PREDICTION] donkey_52.jpg (True: donkey)
+  1. horse - 99.77%
+  2. donkey - 0.21%
+  3. lion - 0.00%
+
+[WRONG PREDICTION] fly_50.jpg (True: fly)
+  1. moth - 99.41%
+  2. beetle - 0.21%
+  3. butterfly - 0.07%
+
+[WRONG PREDICTION] fox_49.jpg (True: fox)
+  1. coyote - 83.38%
+  2. fox - 16.22%
+  3. wolf - 0.16%
+
+[WRONG PREDICTION] hippopotamus_13.jpg (True: hippopotamus)
+  1. rhinoceros - 83.77%
+  2. hippopotamus - 5.94%
+  3. boar - 4.33%
+
+[LOW CONFIDENCE] lizard_21.jpg (True: lizard)
+  1. lizard - 52.47%
+
+[WRONG PREDICTION] moth_28.jpg (True: moth)
+  1. ladybugs - 20.47%
+  2. flamingo - 9.59%
+  3. reindeer - 7.95%
+
+[WRONG PREDICTION] mouse_14.jpg (True: mouse)
+  1. rat - 97.20%
+  2. mouse - 2.57%
+  3. possum - 0.10%
+
+[LOW CONFIDENCE] octopus_24.jpg (True: octopus)
+  1. octopus - 51.14%
+
+[LOW CONFIDENCE] octopus_27.jpg (True: octopus)
+  1. octopus - 55.84%
+
+[WRONG PREDICTION] ox_19.jpg (True: ox)
+  1. rhinoceros - 66.17%
+  2. ox - 10.97%
+  3. dog - 2.04%
+
+[LOW CONFIDENCE] parrot_41.jpg (True: parrot)
+  1. parrot - 46.49%
+
+[WRONG PREDICTION] pig_49.jpg (True: pig)
+  1. octopus - 41.05%
+  2. pig - 14.09%
+  3. cow - 7.04%
+
+[LOW CONFIDENCE] pigeon_8.jpg (True: pigeon)
+  1. pigeon - 47.17%
+
+[WRONG PREDICTION] rat_2.jpg (True: rat)
+  1. mouse - 73.67%
+  2. hamster - 16.60%
+  3. rat - 9.45%
+
+[WRONG PREDICTION] rat_31.jpg (True: rat)
+  1. mouse - 72.16%
+  2. rat - 27.24%
+  3. possum - 0.53%
+
+[WRONG PREDICTION] rat_32.jpg (True: rat)
+  1. mouse - 98.95%
+  2. rat - 1.01%
+  3. possum - 0.01%
+
+[WRONG PREDICTION] rat_49.jpg (True: rat)
+  1. mouse - 98.43%
+  2. rat - 1.48%
+  3. hamster - 0.04%
+
+[LOW CONFIDENCE] sheep_39.jpg (True: sheep)
+  1. sheep - 20.29%
+
+[LOW CONFIDENCE] squid_53.jpg (True: squid)
+  1. squid - 55.29%
+
+[LOW CONFIDENCE] swan_44.jpg (True: swan)
+  1. swan - 47.26%
+
+[WRONG PREDICTION] wolf_4.jpg (True: wolf)
+  1. coyote - 60.72%
+  2. wolf - 13.15%
+  3. horse - 7.76%
+
+[WRONG PREDICTION] wolf_41.jpg (True: wolf)
+  1. coyote - 86.72%
+  2. wolf - 13.08%
+  3. dog - 0.06%
+

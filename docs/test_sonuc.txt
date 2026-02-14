@@ -1,0 +1,2700 @@
+antelope_1.jpg (antelope):
+  1. antelope - 99.83%
+  2. deer - 0.10%
+  3. reindeer - 0.03%
+
+antelope_2.jpg (antelope):
+  1. antelope - 82.89%
+  2. deer - 15.06%
+  3. goat - 0.63%
+
+antelope_23.jpg (antelope):
+  1. antelope - 99.35%
+  2. goat - 0.16%
+  3. hornbill - 0.06%
+
+antelope_24.jpg (antelope):
+  1. antelope - 99.45%
+  2. goat - 0.11%
+  3. reindeer - 0.06%
+
+antelope_31.jpg (antelope):
+  1. antelope - 77.42%
+  2. deer - 21.82%
+  3. okapi - 0.17%
+
+antelope_7.jpg (antelope):
+  1. antelope - 99.75%
+  2. deer - 0.09%
+  3. okapi - 0.03%
+
+badger_17.jpg (badger):
+  1. badger - 99.36%
+  2. possum - 0.14%
+  3. bison - 0.02%
+
+badger_32.jpg (badger):
+  1. badger - 99.88%
+  2. porcupine - 0.03%
+  3. possum - 0.02%
+
+badger_36.jpg (badger):
+  1. badger - 98.85%
+  2. possum - 0.80%
+  3. hornbill - 0.05%
+
+badger_50.jpg (badger):
+  1. badger - 89.37%
+  2. penguin - 1.76%
+  3. bear - 1.11%
+
+badger_6.jpg (badger):
+  1. badger - 98.91%
+  2. possum - 0.81%
+  3. bison - 0.02%
+
+badger_7.jpg (badger):
+  1. badger - 99.86%
+  2. porcupine - 0.01%
+  3. possum - 0.01%
+
+bat_20.jpg (bat):
+  1. bat - 99.59%
+  2. squid - 0.09%
+  3. mouse - 0.03%
+
+bat_24.jpg (bat):
+  1. bat - 98.34%
+  2. hummingbird - 0.37%
+  3. eagle - 0.14%
+
+bat_29.jpg (bat):
+  1. bat - 99.84%
+  2. moth - 0.02%
+  3. goose - 0.02%
+
+bat_45.jpg (bat):
+  1. bat - 99.68%
+  2. moth - 0.03%
+  3. pelecaniformes - 0.02%
+
+bat_5.jpg (bat):
+  1. bat - 99.96%
+  2. squid - 0.01%
+  3. pelecaniformes - 0.01%
+
+bat_7.jpg (bat):
+  1. bat - 93.55%
+  2. octopus - 0.81%
+  3. butterfly - 0.70%
+
+bear_11.jpg (bear):
+  1. bear - 99.31%
+  2. boar - 0.06%
+  3. panda - 0.05%
+
+bear_15.jpg (bear):
+  1. bear - 99.75%
+  2. duck - 0.04%
+  3. wombat - 0.02%
+
+bear_21.jpg (bear):
+  1. bear - 97.50%
+  2. porcupine - 0.41%
+  3. wolf - 0.20%
+
+bear_35.jpg (bear):
+  1. bear - 99.00%
+  2. boar - 0.30%
+  3. wolf - 0.09%
+
+bear_37.jpg (bear):
+  1. bear - 99.66%
+  2. boar - 0.07%
+  3. shark - 0.03%
+
+bear_59.jpg (bear):
+  1. bear - 28.66%
+  2. otter - 10.48%
+  3. wolf - 7.81%
+
+bee_11.jpg (bee):
+  1. bee - 99.91%
+  2. fly - 0.02%
+  3. cockroach - 0.02%
+
+bee_12.jpg (bee):
+  1. bee - 99.89%
+  2. fly - 0.02%
+  3. cockroach - 0.02%
+
+bee_3.jpg (bee):
+  1. bee - 99.94%
+  2. fly - 0.02%
+  3. cockroach - 0.01%
+
+bee_37.jpg (bee):
+  1. bee - 99.70%
+  2. mosquito - 0.05%
+  3. oyster - 0.03%
+
+bee_44.jpg (bee):
+  1. bee - 99.93%
+  2. fly - 0.03%
+  3. cockroach - 0.01%
+
+bee_46.jpg (bee):
+  1. bee - 97.99%
+  2. fly - 1.09%
+  3. beetle - 0.22%
+
+beetle_16.jpg (beetle):
+  1. beetle - 99.93%
+  2. ladybugs - 0.01%
+  3. mosquito - 0.01%
+
+beetle_19.jpg (beetle):
+  1. beetle - 99.84%
+  2. bee - 0.03%
+  3. moth - 0.02%
+
+beetle_26.jpg (beetle):
+  1. beetle - 42.09%
+  2. squid - 18.84%
+  3. lobster - 4.11%
+
+beetle_28.jpg (beetle):
+  1. beetle - 99.55%
+  2. cockroach - 0.08%
+  3. fly - 0.05%
+
+beetle_30.jpg (beetle):
+  1. beetle - 99.86%
+  2. ladybugs - 0.02%
+  3. flamingo - 0.02%
+
+beetle_52.jpg (beetle):
+  1. beetle - 99.85%
+  2. ladybugs - 0.03%
+  3. seal - 0.01%
+
+bison_16.jpg (bison):
+  1. bison - 99.83%
+  2. bear - 0.02%
+  3. boar - 0.01%
+
+bison_2.jpg (bison):
+  1. bison - 99.88%
+  2. ox - 0.02%
+  3. bear - 0.01%
+
+bison_27.jpg (bison):
+  1. bison - 99.75%
+  2. wolf - 0.02%
+  3. bear - 0.02%
+
+bison_38.jpg (bison):
+  1. bison - 99.86%
+  2. pigeon - 0.02%
+  3. bear - 0.01%
+
+bison_6.jpg (bison):
+  1. bison - 99.77%
+  2. ox - 0.04%
+  3. bear - 0.03%
+
+bison_8.jpg (bison):
+  1. bison - 98.82%
+  2. lion - 0.06%
+  3. rhinoceros - 0.05%
+
+boar_14.jpg (boar):
+  1. boar - 99.40%
+  2. rhinoceros - 0.28%
+  3. pig - 0.08%
+
+boar_23.jpg (boar):
+  1. boar - 99.87%
+  2. pig - 0.07%
+  3. possum - 0.01%
+
+boar_26.jpg (boar):
+  1. boar - 94.02%
+  2. rhinoceros - 1.66%
+  3. ox - 0.94%
+
+boar_32.jpg (boar):
+  1. boar - 99.95%
+  2. pig - 0.03%
+  3. hyena - 0.00%
+
+boar_4.jpg (boar):
+  1. boar - 99.86%
+  2. pig - 0.04%
+  3. possum - 0.02%
+
+boar_8.jpg (boar):
+  1. boar - 99.71%
+  2. pig - 0.20%
+  3. hyena - 0.01%
+
+butterfly_14.jpg (butterfly):
+  1. butterfly - 99.87%
+  2. moth - 0.03%
+  3. pelecaniformes - 0.02%
+
+butterfly_22.jpg (butterfly):
+  1. butterfly - 99.84%
+  2. moth - 0.02%
+  3. tiger - 0.02%
+
+butterfly_24.jpg (butterfly):
+  1. butterfly - 99.91%
+  2. moth - 0.05%
+  3. hedgehog - 0.01%
+
+butterfly_44.jpg (butterfly):
+  1. butterfly - 99.74%
+  2. goldfish - 0.04%
+  3. tiger - 0.03%
+
+butterfly_46.jpg (butterfly):
+  1. butterfly - 99.29%
+  2. moth - 0.40%
+  3. cow - 0.04%
+
+butterfly_47.jpg (butterfly):
+  1. butterfly - 99.88%
+  2. moth - 0.04%
+  3. caterpillar - 0.01%
+
+cat_1.jpg (cat):
+  1. cat - 99.11%
+  2. dog - 0.46%
+  3. bear - 0.08%
+
+cat_17.jpg (cat):
+  1. cat - 99.97%
+  2. tiger - 0.01%
+  3. lion - 0.01%
+
+cat_22.jpg (cat):
+  1. cat - 99.95%
+  2. lion - 0.01%
+  3. tiger - 0.00%
+
+cat_36.jpg (cat):
+  1. cat - 99.96%
+  2. dog - 0.01%
+  3. boar - 0.01%
+
+cat_47.jpg (cat):
+  1. cat - 99.92%
+  2. tiger - 0.02%
+  3. lion - 0.01%
+
+cat_54.jpg (cat):
+  1. cat - 97.83%
+  2. tiger - 0.99%
+  3. dog - 0.18%
+
+caterpillar_30.jpg (caterpillar):
+  1. caterpillar - 99.39%
+  2. ladybugs - 0.22%
+  3. moth - 0.06%
+
+caterpillar_39.jpg (caterpillar):
+  1. caterpillar - 84.10%
+  2. seahorse - 1.79%
+  3. flamingo - 1.39%
+
+caterpillar_43.jpg (caterpillar):
+  1. caterpillar - 99.72%
+  2. seahorse - 0.04%
+  3. hedgehog - 0.02%
+
+caterpillar_50.jpg (caterpillar):
+  1. caterpillar - 99.48%
+  2. moth - 0.16%
+  3. butterfly - 0.08%
+
+caterpillar_6.jpg (caterpillar):
+  1. caterpillar - 99.90%
+  2. moth - 0.01%
+  3. butterfly - 0.01%
+
+caterpillar_9.jpg (caterpillar):
+  1. caterpillar - 57.10%
+  2. moth - 17.91%
+  3. seahorse - 9.81%
+
+chimpanzee_22.jpg (chimpanzee):
+  1. chimpanzee - 99.86%
+  2. gorilla - 0.03%
+  3. lion - 0.02%
+
+chimpanzee_27.jpg (chimpanzee):
+  1. chimpanzee - 99.87%
+  2. gorilla - 0.02%
+  3. cat - 0.01%
+
+chimpanzee_32.jpg (chimpanzee):
+  1. chimpanzee - 99.78%
+  2. tiger - 0.04%
+  3. lion - 0.03%
+
+chimpanzee_40.jpg (chimpanzee):
+  1. chimpanzee - 99.86%
+  2. gorilla - 0.03%
+  3. orangutan - 0.02%
+
+chimpanzee_5.jpg (chimpanzee):
+  1. chimpanzee - 99.95%
+  2. lion - 0.01%
+  3. gorilla - 0.01%
+
+chimpanzee_57.jpg (chimpanzee):
+  1. chimpanzee - 99.82%
+  2. orangutan - 0.03%
+  3. lion - 0.02%
+
+cockroach_21.jpg (cockroach):
+  1. cockroach - 99.89%
+  2. beetle - 0.01%
+  3. seal - 0.01%
+
+cockroach_27.jpg (cockroach):
+  1. cockroach - 99.91%
+  2. seal - 0.01%
+  3. beetle - 0.01%
+
+cockroach_28.jpg (cockroach):
+  1. cockroach - 99.88%
+  2. beetle - 0.04%
+  3. fly - 0.02%
+
+cockroach_35.jpg (cockroach):
+  1. cockroach - 99.74%
+  2. beetle - 0.05%
+  3. seal - 0.04%
+
+cockroach_41.jpg (cockroach):
+  1. cockroach - 99.79%
+  2. beetle - 0.03%
+  3. fly - 0.03%
+
+cockroach_48.jpg (cockroach):
+  1. cockroach - 99.86%
+  2. beetle - 0.06%
+  3. mosquito - 0.02%
+
+cow_16.jpg (cow):
+  1. cow - 99.74%
+  2. ox - 0.20%
+  3. rhinoceros - 0.01%
+
+cow_17.jpg (cow):
+  1. cow - 99.88%
+  2. ox - 0.11%
+  3. goat - 0.00%
+
+cow_4.jpg (cow):
+  1. cow - 97.94%
+  2. ox - 2.00%
+  3. horse - 0.01%
+
+cow_48.jpg (cow):
+  1. cow - 95.75%
+  2. ox - 3.98%
+  3. eagle - 0.03%
+
+cow_57.jpg (cow):
+  1. cow - 99.69%
+  2. ox - 0.28%
+  3. goat - 0.01%
+
+cow_7.jpg (cow):
+  1. cow - 99.97%
+  2. ox - 0.03%
+  3. zebra - 0.00%
+
+coyote_29.jpg (coyote):
+  1. coyote - 99.15%
+  2. fox - 0.80%
+  3. dog - 0.01%
+
+coyote_3.jpg (coyote):
+  1. coyote - 99.73%
+  2. wolf - 0.12%
+  3. deer - 0.10%
+
+coyote_46.jpg (coyote):
+  1. coyote - 99.28%
+  2. wolf - 0.66%
+  3. fox - 0.02%
+
+coyote_48.jpg (coyote):
+  1. coyote - 98.25%
+  2. wolf - 1.63%
+  3. dog - 0.05%
+
+coyote_53.jpg (coyote):
+  1. coyote - 99.37%
+  2. wolf - 0.55%
+  3. fox - 0.03%
+
+coyote_8.jpg (coyote):
+  1. coyote - 99.64%
+  2. wolf - 0.31%
+  3. fox - 0.01%
+
+crab_10.jpg (crab):
+  1. crab - 99.94%
+  2. donkey - 0.01%
+  3. seal - 0.01%
+
+crab_16.jpg (crab):
+  1. crab - 99.88%
+  2. lobster - 0.02%
+  3. mosquito - 0.01%
+
+crab_18.jpg (crab):
+  1. crab - 99.54%
+  2. chimpanzee - 0.04%
+  3. fox - 0.03%
+
+crab_36.jpg (crab):
+  1. crab - 99.45%
+  2. beetle - 0.12%
+  3. wolf - 0.04%
+
+crab_41.jpg (crab):
+  1. crab - 99.81%
+  2. beetle - 0.02%
+  3. lobster - 0.02%
+
+crab_48.jpg (crab):
+  1. crab - 99.90%
+  2. donkey - 0.01%
+  3. beetle - 0.01%
+
+crow_11.jpg (crow):
+  1. crow - 99.88%
+  2. hummingbird - 0.02%
+  3. pigeon - 0.02%
+
+crow_13.jpg (crow):
+  1. crow - 98.64%
+  2. pigeon - 0.75%
+  3. duck - 0.12%
+
+crow_29.jpg (crow):
+  1. crow - 99.82%
+  2. pigeon - 0.03%
+  3. hummingbird - 0.02%
+
+crow_48.jpg (crow):
+  1. crow - 99.50%
+  2. lizard - 0.09%
+  3. pigeon - 0.08%
+
+crow_57.jpg (crow):
+  1. crow - 99.72%
+  2. lizard - 0.05%
+  3. pigeon - 0.05%
+
+crow_8.jpg (crow):
+  1. crow - 99.61%
+  2. pigeon - 0.14%
+  3. lizard - 0.03%
+
+deer_12.jpg (deer):
+  1. deer - 93.71%
+  2. antelope - 6.11%
+  3. reindeer - 0.08%
+
+deer_22.jpg (deer):
+  1. deer - 99.44%
+  2. reindeer - 0.32%
+  3. ox - 0.17%
+
+deer_42.jpg (deer):
+  1. deer - 99.96%
+  2. reindeer - 0.04%
+  3. ox - 0.00%
+
+deer_5.jpg (deer):
+  1. deer - 99.93%
+  2. reindeer - 0.05%
+  3. antelope - 0.01%
+
+deer_52.jpg (deer):
+  1. deer - 99.18%
+  2. antelope - 0.44%
+  3. coyote - 0.07%
+
+deer_9.jpg (deer):
+  1. deer - 93.62%
+  2. reindeer - 6.26%
+  3. ox - 0.05%
+
+dog_28.jpg (dog):
+  1. dog - 36.36%
+  2. ladybugs - 6.31%
+  3. goat - 5.45%
+
+dog_39.jpg (dog):
+  1. dog - 99.92%
+  2. cow - 0.01%
+  3. deer - 0.01%
+
+dog_4.jpg (dog):
+  1. dog - 99.16%
+  2. possum - 0.14%
+  3. sparrow - 0.08%
+
+dog_47.jpg (dog):
+  1. dog - 83.68%
+  2. rhinoceros - 7.98%
+  3. tiger - 1.45%
+
+dog_51.jpg (dog):
+  1. dog - 99.56%
+  2. bear - 0.12%
+  3. cat - 0.09%
+
+dog_56.jpg (dog):
+  1. dog - 59.08%
+  2. cow - 14.39%
+  3. rhinoceros - 4.71%
+
+dolphin_12.jpg (dolphin):
+  1. dolphin - 82.87%
+  2. whale - 8.27%
+  3. shark - 8.04%
+
+dolphin_31.jpg (dolphin):
+  1. dolphin - 99.62%
+  2. shark - 0.18%
+  3. whale - 0.17%
+
+dolphin_45.jpg (dolphin):
+  1. dolphin - 99.44%
+  2. whale - 0.28%
+  3. swan - 0.05%
+
+dolphin_54.jpg (dolphin):
+  1. dolphin - 99.95%
+  2. whale - 0.04%
+  3. shark - 0.00%
+
+dolphin_55.jpg (dolphin):
+  1. dolphin - 99.69%
+  2. whale - 0.20%
+  3. shark - 0.04%
+
+dolphin_56.jpg (dolphin):
+  1. dolphin - 99.81%
+  2. whale - 0.09%
+  3. seal - 0.03%
+
+donkey_1.jpg (donkey):
+  1. donkey - 93.69%
+  2. horse - 3.67%
+  3. goat - 1.14%
+
+donkey_12.jpg (donkey):
+  1. donkey - 99.48%
+  2. horse - 0.13%
+  3. antelope - 0.04%
+
+donkey_16.jpg (donkey):
+  1. donkey - 99.83%
+  2. horse - 0.02%
+  3. goat - 0.02%
+
+donkey_3.jpg (donkey):
+  1. donkey - 99.80%
+  2. horse - 0.06%
+  3. goat - 0.03%
+
+donkey_51.jpg (donkey):
+  1. donkey - 99.86%
+  2. goat - 0.02%
+  3. reindeer - 0.02%
+
+donkey_52.jpg (donkey):
+  1. horse - 99.77%
+  2. donkey - 0.21%
+  3. lion - 0.00%
+
+dragonfly_17.jpg (dragonfly):
+  1. dragonfly - 99.92%
+  2. hummingbird - 0.01%
+  3. crab - 0.01%
+
+dragonfly_26.jpg (dragonfly):
+  1. dragonfly - 99.93%
+  2. mosquito - 0.02%
+  3. fly - 0.01%
+
+dragonfly_36.jpg (dragonfly):
+  1. dragonfly - 99.98%
+  2. mosquito - 0.00%
+  3. hummingbird - 0.00%
+
+dragonfly_48.jpg (dragonfly):
+  1. dragonfly - 99.90%
+  2. grasshopper - 0.01%
+  3. mosquito - 0.01%
+
+dragonfly_5.jpg (dragonfly):
+  1. dragonfly - 99.93%
+  2. mosquito - 0.04%
+  3. butterfly - 0.01%
+
+dragonfly_7.jpg (dragonfly):
+  1. dragonfly - 99.94%
+  2. hummingbird - 0.01%
+  3. mosquito - 0.01%
+
+duck_13.jpg (duck):
+  1. duck - 99.69%
+  2. goose - 0.05%
+  3. pigeon - 0.03%
+
+duck_19.jpg (duck):
+  1. duck - 99.63%
+  2. dragonfly - 0.07%
+  3. goose - 0.04%
+
+duck_3.jpg (duck):
+  1. duck - 99.76%
+  2. goose - 0.05%
+  3. pigeon - 0.03%
+
+duck_50.jpg (duck):
+  1. duck - 99.66%
+  2. pigeon - 0.05%
+  3. squirrel - 0.03%
+
+duck_6.jpg (duck):
+  1. duck - 93.89%
+  2. goose - 5.56%
+  3. swan - 0.12%
+
+duck_9.jpg (duck):
+  1. duck - 99.76%
+  2. pigeon - 0.03%
+  3. goose - 0.02%
+
+eagle_21.jpg (eagle):
+  1. eagle - 99.24%
+  2. crow - 0.43%
+  3. ox - 0.03%
+
+eagle_22.jpg (eagle):
+  1. eagle - 99.65%
+  2. ox - 0.03%
+  3. deer - 0.02%
+
+eagle_23.jpg (eagle):
+  1. eagle - 99.02%
+  2. lizard - 0.24%
+  3. turtle - 0.07%
+
+eagle_28.jpg (eagle):
+  1. eagle - 99.81%
+  2. hornbill - 0.01%
+  3. woodpecker - 0.01%
+
+eagle_37.jpg (eagle):
+  1. eagle - 99.75%
+  2. cat - 0.02%
+  3. crab - 0.02%
+
+eagle_40.jpg (eagle):
+  1. eagle - 99.70%
+  2. ox - 0.03%
+  3. otter - 0.02%
+
+elephant_10.jpg (elephant):
+  1. elephant - 99.93%
+  2. rhinoceros - 0.04%
+  3. bison - 0.01%
+
+elephant_11.jpg (elephant):
+  1. elephant - 99.43%
+  2. hippopotamus - 0.10%
+  3. goose - 0.08%
+
+elephant_23.jpg (elephant):
+  1. elephant - 99.80%
+  2. rhinoceros - 0.05%
+  3. gorilla - 0.03%
+
+elephant_42.jpg (elephant):
+  1. elephant - 99.87%
+  2. rhinoceros - 0.07%
+  3. gorilla - 0.01%
+
+elephant_45.jpg (elephant):
+  1. elephant - 96.01%
+  2. horse - 1.29%
+  3. ox - 0.84%
+
+elephant_7.jpg (elephant):
+  1. elephant - 96.14%
+  2. rhinoceros - 2.49%
+  3. cat - 0.22%
+
+flamingo_10.jpg (flamingo):
+  1. flamingo - 99.81%
+  2. swan - 0.09%
+  3. pelecaniformes - 0.04%
+
+flamingo_19.jpg (flamingo):
+  1. flamingo - 99.81%
+  2. swan - 0.02%
+  3. duck - 0.02%
+
+flamingo_23.jpg (flamingo):
+  1. flamingo - 99.93%
+  2. pelecaniformes - 0.01%
+  3. swan - 0.01%
+
+flamingo_48.jpg (flamingo):
+  1. flamingo - 99.65%
+  2. swan - 0.16%
+  3. pelecaniformes - 0.08%
+
+flamingo_58.jpg (flamingo):
+  1. flamingo - 98.67%
+  2. pelecaniformes - 0.36%
+  3. swan - 0.32%
+
+flamingo_9.jpg (flamingo):
+  1. flamingo - 99.52%
+  2. turkey - 0.13%
+  3. octopus - 0.08%
+
+fly_27.jpg (fly):
+  1. fly - 99.81%
+  2. bee - 0.06%
+  3. dragonfly - 0.02%
+
+fly_48.jpg (fly):
+  1. fly - 99.87%
+  2. bee - 0.02%
+  3. cockroach - 0.02%
+
+fly_49.jpg (fly):
+  1. fly - 99.71%
+  2. bee - 0.07%
+  3. ox - 0.03%
+
+fly_50.jpg (fly):
+  1. moth - 99.41%
+  2. beetle - 0.21%
+  3. butterfly - 0.07%
+
+fly_53.jpg (fly):
+  1. fly - 99.79%
+  2. bee - 0.06%
+  3. dragonfly - 0.01%
+
+fly_54.jpg (fly):
+  1. fly - 99.79%
+  2. bee - 0.03%
+  3. dragonfly - 0.02%
+
+fox_26.jpg (fox):
+  1. fox - 99.69%
+  2. coyote - 0.22%
+  3. wolf - 0.05%
+
+fox_30.jpg (fox):
+  1. fox - 99.36%
+  2. raccoon - 0.40%
+  3. coyote - 0.08%
+
+fox_38.jpg (fox):
+  1. fox - 99.57%
+  2. coyote - 0.16%
+  3. wolf - 0.06%
+
+fox_49.jpg (fox):
+  1. coyote - 83.38%
+  2. fox - 16.22%
+  3. wolf - 0.16%
+
+fox_51.jpg (fox):
+  1. fox - 98.27%
+  2. coyote - 1.12%
+  3. raccoon - 0.08%
+
+fox_7.jpg (fox):
+  1. fox - 99.59%
+  2. raccoon - 0.19%
+  3. panda - 0.05%
+
+goat_10.jpg (goat):
+  1. goat - 99.79%
+  2. reindeer - 0.08%
+  3. sheep - 0.03%
+
+goat_13.jpg (goat):
+  1. goat - 98.93%
+  2. pig - 0.28%
+  3. sheep - 0.23%
+
+goat_2.jpg (goat):
+  1. goat - 98.73%
+  2. ox - 0.72%
+  3. kangaroo - 0.09%
+
+goat_34.jpg (goat):
+  1. goat - 99.90%
+  2. reindeer - 0.02%
+  3. antelope - 0.01%
+
+goat_42.jpg (goat):
+  1. goat - 99.95%
+  2. reindeer - 0.01%
+  3. antelope - 0.01%
+
+goat_52.jpg (goat):
+  1. goat - 99.79%
+  2. otter - 0.03%
+  3. cow - 0.01%
+
+goldfish_23.jpg (goldfish):
+  1. goldfish - 99.75%
+  2. butterfly - 0.05%
+  3. horse - 0.01%
+
+goldfish_32.jpg (goldfish):
+  1. goldfish - 79.39%
+  2. squirrel - 3.98%
+  3. lobster - 1.76%
+
+goldfish_40.jpg (goldfish):
+  1. goldfish - 99.87%
+  2. butterfly - 0.01%
+  3. whale - 0.01%
+
+goldfish_42.jpg (goldfish):
+  1. goldfish - 99.90%
+  2. whale - 0.01%
+  3. butterfly - 0.01%
+
+goldfish_44.jpg (goldfish):
+  1. goldfish - 99.88%
+  2. butterfly - 0.01%
+  3. whale - 0.01%
+
+goldfish_58.jpg (goldfish):
+  1. goldfish - 98.99%
+  2. squirrel - 0.30%
+  3. jellyfish - 0.08%
+
+goose_14.jpg (goose):
+  1. goose - 99.97%
+  2. duck - 0.01%
+  3. pelecaniformes - 0.01%
+
+goose_22.jpg (goose):
+  1. goose - 99.70%
+  2. duck - 0.24%
+  3. swan - 0.03%
+
+goose_41.jpg (goose):
+  1. goose - 99.76%
+  2. duck - 0.13%
+  3. swan - 0.06%
+
+goose_49.jpg (goose):
+  1. goose - 86.87%
+  2. woodpecker - 3.30%
+  3. crow - 1.94%
+
+goose_53.jpg (goose):
+  1. goose - 99.94%
+  2. pelecaniformes - 0.02%
+  3. duck - 0.01%
+
+goose_54.jpg (goose):
+  1. goose - 99.83%
+  2. swan - 0.04%
+  3. duck - 0.03%
+
+gorilla_15.jpg (gorilla):
+  1. gorilla - 99.54%
+  2. chimpanzee - 0.30%
+  3. orangutan - 0.04%
+
+gorilla_21.jpg (gorilla):
+  1. gorilla - 99.87%
+  2. chimpanzee - 0.04%
+  3. orangutan - 0.03%
+
+gorilla_32.jpg (gorilla):
+  1. gorilla - 99.19%
+  2. chimpanzee - 0.57%
+  3. bear - 0.03%
+
+gorilla_37.jpg (gorilla):
+  1. gorilla - 99.91%
+  2. chimpanzee - 0.02%
+  3. orangutan - 0.01%
+
+gorilla_47.jpg (gorilla):
+  1. gorilla - 99.03%
+  2. bear - 0.21%
+  3. bison - 0.07%
+
+gorilla_5.jpg (gorilla):
+  1. gorilla - 99.68%
+  2. bear - 0.05%
+  3. elephant - 0.02%
+
+grasshopper_23.jpg (grasshopper):
+  1. grasshopper - 99.70%
+  2. cockroach - 0.11%
+  3. mosquito - 0.02%
+
+grasshopper_27.jpg (grasshopper):
+  1. grasshopper - 99.72%
+  2. cockroach - 0.14%
+  3. dragonfly - 0.02%
+
+grasshopper_35.jpg (grasshopper):
+  1. grasshopper - 99.85%
+  2. cockroach - 0.03%
+  3. moth - 0.03%
+
+grasshopper_36.jpg (grasshopper):
+  1. grasshopper - 99.27%
+  2. cockroach - 0.22%
+  3. crab - 0.07%
+
+grasshopper_51.jpg (grasshopper):
+  1. grasshopper - 99.70%
+  2. cockroach - 0.11%
+  3. hyena - 0.02%
+
+grasshopper_52.jpg (grasshopper):
+  1. grasshopper - 99.71%
+  2. moth - 0.07%
+  3. cockroach - 0.05%
+
+hamster_1.jpg (hamster):
+  1. hamster - 99.94%
+  2. mouse - 0.01%
+  3. crow - 0.01%
+
+hamster_15.jpg (hamster):
+  1. hamster - 99.63%
+  2. mouse - 0.25%
+  3. possum - 0.02%
+
+hamster_16.jpg (hamster):
+  1. hamster - 99.94%
+  2. mouse - 0.02%
+  3. dog - 0.01%
+
+hamster_30.jpg (hamster):
+  1. hamster - 99.86%
+  2. dog - 0.02%
+  3. mouse - 0.02%
+
+hamster_39.jpg (hamster):
+  1. hamster - 99.83%
+  2. mouse - 0.11%
+  3. ox - 0.01%
+
+hamster_53.jpg (hamster):
+  1. hamster - 99.29%
+  2. mouse - 0.11%
+  3. otter - 0.07%
+
+hare_10.jpg (hare):
+  1. hare - 99.76%
+  2. antelope - 0.02%
+  3. cockroach - 0.02%
+
+hare_19.jpg (hare):
+  1. hare - 99.74%
+  2. cockroach - 0.03%
+  3. kangaroo - 0.03%
+
+hare_30.jpg (hare):
+  1. hare - 99.94%
+  2. mouse - 0.01%
+  3. kangaroo - 0.00%
+
+hare_50.jpg (hare):
+  1. hare - 99.83%
+  2. cockroach - 0.02%
+  3. gorilla - 0.02%
+
+hare_52.jpg (hare):
+  1. hare - 99.84%
+  2. cockroach - 0.01%
+  3. kangaroo - 0.01%
+
+hare_56.jpg (hare):
+  1. hare - 99.81%
+  2. cockroach - 0.02%
+  3. sandpiper - 0.01%
+
+hedgehog_16.jpg (hedgehog):
+  1. hedgehog - 99.97%
+  2. porcupine - 0.02%
+  3. badger - 0.01%
+
+hedgehog_27.jpg (hedgehog):
+  1. hedgehog - 99.86%
+  2. porcupine - 0.13%
+  3. badger - 0.00%
+
+hedgehog_34.jpg (hedgehog):
+  1. hedgehog - 99.87%
+  2. porcupine - 0.06%
+  3. possum - 0.04%
+
+hedgehog_4.jpg (hedgehog):
+  1. hedgehog - 99.96%
+  2. wombat - 0.01%
+  3. sandpiper - 0.01%
+
+hedgehog_53.jpg (hedgehog):
+  1. hedgehog - 99.97%
+  2. wombat - 0.01%
+  3. porcupine - 0.00%
+
+hedgehog_58.jpg (hedgehog):
+  1. hedgehog - 99.91%
+  2. possum - 0.04%
+  3. porcupine - 0.02%
+
+hippopotamus_11.jpg (hippopotamus):
+  1. hippopotamus - 99.88%
+  2. rhinoceros - 0.04%
+  3. turkey - 0.01%
+
+hippopotamus_13.jpg (hippopotamus):
+  1. rhinoceros - 83.77%
+  2. hippopotamus - 5.94%
+  3. boar - 4.33%
+
+hippopotamus_18.jpg (hippopotamus):
+  1. hippopotamus - 99.84%
+  2. rhinoceros - 0.08%
+  3. wombat - 0.02%
+
+hippopotamus_19.jpg (hippopotamus):
+  1. hippopotamus - 99.60%
+  2. rhinoceros - 0.19%
+  3. wombat - 0.03%
+
+hippopotamus_51.jpg (hippopotamus):
+  1. hippopotamus - 99.90%
+  2. rhinoceros - 0.01%
+  3. wombat - 0.01%
+
+hippopotamus_53.jpg (hippopotamus):
+  1. hippopotamus - 99.47%
+  2. rhinoceros - 0.13%
+  3. elephant - 0.04%
+
+hornbill_16.jpg (hornbill):
+  1. hornbill - 99.78%
+  2. pelecaniformes - 0.13%
+  3. woodpecker - 0.01%
+
+hornbill_18.jpg (hornbill):
+  1. hornbill - 99.72%
+  2. pelecaniformes - 0.08%
+  3. woodpecker - 0.04%
+
+hornbill_3.jpg (hornbill):
+  1. hornbill - 99.85%
+  2. pelecaniformes - 0.06%
+  3. woodpecker - 0.01%
+
+hornbill_31.jpg (hornbill):
+  1. hornbill - 99.82%
+  2. pelecaniformes - 0.09%
+  3. woodpecker - 0.01%
+
+hornbill_40.jpg (hornbill):
+  1. hornbill - 99.84%
+  2. pelecaniformes - 0.04%
+  3. woodpecker - 0.03%
+
+hornbill_48.jpg (hornbill):
+  1. hornbill - 99.57%
+  2. pelecaniformes - 0.22%
+  3. woodpecker - 0.06%
+
+horse_11.jpg (horse):
+  1. horse - 99.90%
+  2. donkey - 0.04%
+  3. hippopotamus - 0.01%
+
+horse_17.jpg (horse):
+  1. horse - 94.04%
+  2. porcupine - 0.69%
+  3. wolf - 0.50%
+
+horse_25.jpg (horse):
+  1. horse - 93.27%
+  2. donkey - 3.19%
+  3. cow - 0.47%
+
+horse_46.jpg (horse):
+  1. horse - 99.93%
+  2. donkey - 0.02%
+  3. bear - 0.01%
+
+horse_8.jpg (horse):
+  1. horse - 99.36%
+  2. bison - 0.17%
+  3. boar - 0.10%
+
+horse_9.jpg (horse):
+  1. horse - 99.97%
+  2. donkey - 0.01%
+  3. hippopotamus - 0.00%
+
+hummingbird_11.jpg (hummingbird):
+  1. hummingbird - 99.78%
+  2. wolf - 0.02%
+  3. zebra - 0.02%
+
+hummingbird_17.jpg (hummingbird):
+  1. hummingbird - 99.81%
+  2. pigeon - 0.01%
+  3. zebra - 0.01%
+
+hummingbird_34.jpg (hummingbird):
+  1. hummingbird - 99.89%
+  2. crow - 0.01%
+  3. penguin - 0.01%
+
+hummingbird_40.jpg (hummingbird):
+  1. hummingbird - 99.61%
+  2. crow - 0.03%
+  3. rat - 0.02%
+
+hummingbird_49.jpg (hummingbird):
+  1. hummingbird - 99.84%
+  2. wolf - 0.02%
+  3. crow - 0.01%
+
+hummingbird_8.jpg (hummingbird):
+  1. hummingbird - 99.57%
+  2. crow - 0.04%
+  3. sandpiper - 0.04%
+
+hyena_17.jpg (hyena):
+  1. hyena - 99.82%
+  2. boar - 0.02%
+  3. pelecaniformes - 0.01%
+
+hyena_24.jpg (hyena):
+  1. hyena - 99.95%
+  2. boar - 0.01%
+  3. hedgehog - 0.00%
+
+hyena_43.jpg (hyena):
+  1. hyena - 93.52%
+  2. dog - 1.70%
+  3. coyote - 0.67%
+
+hyena_45.jpg (hyena):
+  1. hyena - 99.86%
+  2. boar - 0.03%
+  3. leopard - 0.01%
+
+hyena_51.jpg (hyena):
+  1. hyena - 99.82%
+  2. boar - 0.02%
+  3. bear - 0.01%
+
+hyena_57.jpg (hyena):
+  1. hyena - 99.90%
+  2. boar - 0.02%
+  3. hedgehog - 0.01%
+
+jellyfish_16.jpg (jellyfish):
+  1. jellyfish - 99.85%
+  2. flamingo - 0.02%
+  3. seahorse - 0.01%
+
+jellyfish_31.jpg (jellyfish):
+  1. jellyfish - 99.67%
+  2. butterfly - 0.03%
+  3. caterpillar - 0.02%
+
+jellyfish_4.jpg (jellyfish):
+  1. jellyfish - 99.86%
+  2. bat - 0.02%
+  3. hare - 0.02%
+
+jellyfish_40.jpg (jellyfish):
+  1. jellyfish - 99.74%
+  2. seahorse - 0.06%
+  3. caterpillar - 0.05%
+
+jellyfish_48.jpg (jellyfish):
+  1. jellyfish - 99.99%
+  2. flamingo - 0.00%
+  3. mouse - 0.00%
+
+jellyfish_58.jpg (jellyfish):
+  1. jellyfish - 99.97%
+  2. bat - 0.00%
+  3. ox - 0.00%
+
+kangaroo_10.jpg (kangaroo):
+  1. kangaroo - 99.83%
+  2. deer - 0.07%
+  3. koala - 0.01%
+
+kangaroo_13.jpg (kangaroo):
+  1. kangaroo - 98.41%
+  2. deer - 0.75%
+  3. okapi - 0.18%
+
+kangaroo_32.jpg (kangaroo):
+  1. kangaroo - 98.96%
+  2. deer - 0.59%
+  3. okapi - 0.09%
+
+kangaroo_35.jpg (kangaroo):
+  1. kangaroo - 99.93%
+  2. coyote - 0.02%
+  3. deer - 0.01%
+
+kangaroo_5.jpg (kangaroo):
+  1. kangaroo - 97.61%
+  2. goat - 1.01%
+  3. deer - 0.39%
+
+kangaroo_52.jpg (kangaroo):
+  1. kangaroo - 99.89%
+  2. deer - 0.03%
+  3. coyote - 0.01%
+
+koala_11.jpg (koala):
+  1. koala - 99.65%
+  2. wombat - 0.08%
+  3. chimpanzee - 0.04%
+
+koala_22.jpg (koala):
+  1. koala - 99.86%
+  2. chimpanzee - 0.03%
+  3. wombat - 0.02%
+
+koala_30.jpg (koala):
+  1. koala - 98.55%
+  2. wombat - 0.43%
+  3. chimpanzee - 0.34%
+
+koala_4.jpg (koala):
+  1. koala - 99.89%
+  2. chimpanzee - 0.01%
+  3. lion - 0.01%
+
+koala_55.jpg (koala):
+  1. koala - 99.82%
+  2. chimpanzee - 0.03%
+  3. wombat - 0.02%
+
+koala_56.jpg (koala):
+  1. koala - 99.81%
+  2. possum - 0.02%
+  3. otter - 0.01%
+
+ladybugs_2.jpg (ladybugs):
+  1. ladybugs - 99.30%
+  2. beetle - 0.47%
+  3. cockroach - 0.02%
+
+ladybugs_35.jpg (ladybugs):
+  1. ladybugs - 99.84%
+  2. beetle - 0.03%
+  3. dragonfly - 0.01%
+
+ladybugs_36.jpg (ladybugs):
+  1. ladybugs - 99.89%
+  2. beetle - 0.01%
+  3. orangutan - 0.01%
+
+ladybugs_45.jpg (ladybugs):
+  1. ladybugs - 99.56%
+  2. beetle - 0.15%
+  3. parrot - 0.04%
+
+ladybugs_57.jpg (ladybugs):
+  1. ladybugs - 99.88%
+  2. beetle - 0.01%
+  3. parrot - 0.01%
+
+ladybugs_6.jpg (ladybugs):
+  1. ladybugs - 99.24%
+  2. parrot - 0.14%
+  3. orangutan - 0.05%
+
+leopard_10.jpg (leopard):
+  1. leopard - 98.88%
+  2. lion - 0.35%
+  3. hyena - 0.10%
+
+leopard_20.jpg (leopard):
+  1. leopard - 99.91%
+  2. hyena - 0.03%
+  3. tiger - 0.02%
+
+leopard_29.jpg (leopard):
+  1. leopard - 99.66%
+  2. tiger - 0.23%
+  3. lion - 0.05%
+
+leopard_39.jpg (leopard):
+  1. leopard - 99.68%
+  2. hyena - 0.09%
+  3. lion - 0.03%
+
+leopard_41.jpg (leopard):
+  1. leopard - 93.79%
+  2. tiger - 0.89%
+  3. lion - 0.61%
+
+leopard_57.jpg (leopard):
+  1. leopard - 99.86%
+  2. hyena - 0.02%
+  3. seahorse - 0.02%
+
+lion_1.jpg (lion):
+  1. lion - 99.91%
+  2. bison - 0.01%
+  3. cat - 0.01%
+
+lion_13.jpg (lion):
+  1. lion - 99.85%
+  2. cat - 0.03%
+  3. bear - 0.03%
+
+lion_16.jpg (lion):
+  1. lion - 99.77%
+  2. seal - 0.03%
+  3. bear - 0.02%
+
+lion_30.jpg (lion):
+  1. lion - 99.88%
+  2. bear - 0.02%
+  3. orangutan - 0.01%
+
+lion_54.jpg (lion):
+  1. lion - 99.75%
+  2. bear - 0.06%
+  3. wolf - 0.04%
+
+lion_59.jpg (lion):
+  1. lion - 99.74%
+  2. bear - 0.03%
+  3. cat - 0.03%
+
+lizard_21.jpg (lizard):
+  1. lizard - 52.47%
+  2. elephant - 2.93%
+  3. wombat - 2.85%
+
+lizard_28.jpg (lizard):
+  1. lizard - 82.84%
+  2. beetle - 2.96%
+  3. seahorse - 1.54%
+
+lizard_29.jpg (lizard):
+  1. lizard - 99.80%
+  2. donkey - 0.04%
+  3. woodpecker - 0.01%
+
+lizard_36.jpg (lizard):
+  1. lizard - 99.95%
+  2. snake - 0.02%
+  3. butterfly - 0.01%
+
+lizard_45.jpg (lizard):
+  1. lizard - 99.97%
+  2. hedgehog - 0.01%
+  3. turtle - 0.00%
+
+lizard_47.jpg (lizard):
+  1. lizard - 96.18%
+  2. beetle - 0.63%
+  3. dog - 0.41%
+
+lobster_21.jpg (lobster):
+  1. lobster - 99.92%
+  2. squid - 0.04%
+  3. bear - 0.01%
+
+lobster_34.jpg (lobster):
+  1. lobster - 99.63%
+  2. squid - 0.17%
+  3. mosquito - 0.06%
+
+lobster_37.jpg (lobster):
+  1. lobster - 99.87%
+  2. squid - 0.04%
+  3. crab - 0.02%
+
+lobster_43.jpg (lobster):
+  1. lobster - 99.91%
+  2. crab - 0.02%
+  3. mouse - 0.02%
+
+lobster_52.jpg (lobster):
+  1. lobster - 99.24%
+  2. beetle - 0.13%
+  3. cockroach - 0.12%
+
+lobster_8.jpg (lobster):
+  1. lobster - 99.87%
+  2. crab - 0.03%
+  3. squid - 0.03%
+
+mosquito_13.jpg (mosquito):
+  1. mosquito - 99.57%
+  2. grasshopper - 0.23%
+  3. cockroach - 0.11%
+
+mosquito_24.jpg (mosquito):
+  1. mosquito - 99.95%
+  2. seahorse - 0.01%
+  3. coyote - 0.00%
+
+mosquito_26.jpg (mosquito):
+  1. mosquito - 99.74%
+  2. seahorse - 0.07%
+  3. fly - 0.03%
+
+mosquito_37.jpg (mosquito):
+  1. mosquito - 99.95%
+  2. fly - 0.01%
+  3. cockroach - 0.01%
+
+mosquito_38.jpg (mosquito):
+  1. mosquito - 99.86%
+  2. cockroach - 0.04%
+  3. fly - 0.03%
+
+mosquito_45.jpg (mosquito):
+  1. mosquito - 99.65%
+  2. dragonfly - 0.08%
+  3. cockroach - 0.08%
+
+moth_20.jpg (moth):
+  1. moth - 86.38%
+  2. butterfly - 5.27%
+  3. lizard - 1.33%
+
+moth_28.jpg (moth):
+  1. ladybugs - 20.47%
+  2. flamingo - 9.59%
+  3. reindeer - 7.95%
+
+moth_29.jpg (moth):
+  1. moth - 97.76%
+  2. butterfly - 2.08%
+  3. hedgehog - 0.06%
+
+moth_38.jpg (moth):
+  1. moth - 99.88%
+  2. butterfly - 0.10%
+  3. hare - 0.00%
+
+moth_48.jpg (moth):
+  1. moth - 99.20%
+  2. butterfly - 0.72%
+  3. caterpillar - 0.03%
+
+moth_6.jpg (moth):
+  1. moth - 99.83%
+  2. butterfly - 0.12%
+  3. bat - 0.01%
+
+mouse_11.jpg (mouse):
+  1. mouse - 99.98%
+  2. hamster - 0.01%
+  3. possum - 0.00%
+
+mouse_12.jpg (mouse):
+  1. mouse - 96.39%
+  2. hamster - 3.10%
+  3. rat - 0.26%
+
+mouse_14.jpg (mouse):
+  1. rat - 97.20%
+  2. mouse - 2.57%
+  3. possum - 0.10%
+
+mouse_28.jpg (mouse):
+  1. mouse - 99.99%
+  2. rat - 0.01%
+  3. hamster - 0.00%
+
+mouse_50.jpg (mouse):
+  1. mouse - 98.73%
+  2. hamster - 1.09%
+  3. rat - 0.07%
+
+mouse_56.jpg (mouse):
+  1. mouse - 99.37%
+  2. hamster - 0.16%
+  3. rat - 0.09%
+
+octopus_23.jpg (octopus):
+  1. octopus - 98.85%
+  2. squid - 0.82%
+  3. bat - 0.04%
+
+octopus_24.jpg (octopus):
+  1. octopus - 51.14%
+  2. seahorse - 9.82%
+  3. lizard - 9.28%
+
+octopus_27.jpg (octopus):
+  1. octopus - 55.84%
+  2. squid - 43.30%
+  3. lizard - 0.21%
+
+octopus_31.jpg (octopus):
+  1. octopus - 99.57%
+  2. squid - 0.42%
+  3. starfish - 0.01%
+
+octopus_33.jpg (octopus):
+  1. octopus - 74.80%
+  2. squid - 24.69%
+  3. deer - 0.21%
+
+octopus_58.jpg (octopus):
+  1. octopus - 88.92%
+  2. squid - 3.30%
+  3. oyster - 1.40%
+
+okapi_14.jpg (okapi):
+  1. okapi - 99.84%
+  2. kangaroo - 0.02%
+  3. hedgehog - 0.01%
+
+okapi_28.jpg (okapi):
+  1. okapi - 99.97%
+  2. tiger - 0.00%
+  3. antelope - 0.00%
+
+okapi_35.jpg (okapi):
+  1. okapi - 99.93%
+  2. horse - 0.02%
+  3. antelope - 0.01%
+
+okapi_42.jpg (okapi):
+  1. okapi - 99.41%
+  2. zebra - 0.19%
+  3. leopard - 0.05%
+
+okapi_49.jpg (okapi):
+  1. okapi - 98.76%
+  2. donkey - 0.18%
+  3. antelope - 0.16%
+
+okapi_58.jpg (okapi):
+  1. okapi - 98.47%
+  2. leopard - 0.38%
+  3. butterfly - 0.23%
+
+orangutan_20.jpg (orangutan):
+  1. orangutan - 99.85%
+  2. squirrel - 0.02%
+  3. horse - 0.01%
+
+orangutan_25.jpg (orangutan):
+  1. orangutan - 99.39%
+  2. squirrel - 0.13%
+  3. badger - 0.06%
+
+orangutan_33.jpg (orangutan):
+  1. orangutan - 99.80%
+  2. bison - 0.03%
+  3. tiger - 0.02%
+
+orangutan_51.jpg (orangutan):
+  1. orangutan - 99.93%
+  2. chimpanzee - 0.01%
+  3. lion - 0.01%
+
+orangutan_56.jpg (orangutan):
+  1. orangutan - 99.71%
+  2. squirrel - 0.03%
+  3. hamster - 0.03%
+
+orangutan_58.jpg (orangutan):
+  1. orangutan - 99.80%
+  2. lion - 0.02%
+  3. tiger - 0.02%
+
+otter_10.jpg (otter):
+  1. otter - 99.88%
+  2. elephant - 0.01%
+  3. turkey - 0.01%
+
+otter_23.jpg (otter):
+  1. otter - 99.46%
+  2. raccoon - 0.12%
+  3. porcupine - 0.12%
+
+otter_3.jpg (otter):
+  1. otter - 99.66%
+  2. seal - 0.08%
+  3. hedgehog - 0.03%
+
+otter_36.jpg (otter):
+  1. otter - 99.91%
+  2. raccoon - 0.01%
+  3. deer - 0.01%
+
+otter_45.jpg (otter):
+  1. otter - 99.87%
+  2. seal - 0.02%
+  3. porcupine - 0.01%
+
+otter_56.jpg (otter):
+  1. otter - 99.73%
+  2. hedgehog - 0.07%
+  3. raccoon - 0.03%
+
+owl_1.jpg (owl):
+  1. owl - 99.82%
+  2. cow - 0.03%
+  3. sheep - 0.01%
+
+owl_12.jpg (owl):
+  1. owl - 99.88%
+  2. orangutan - 0.01%
+  3. boar - 0.01%
+
+owl_26.jpg (owl):
+  1. owl - 99.92%
+  2. zebra - 0.01%
+  3. sandpiper - 0.01%
+
+owl_3.jpg (owl):
+  1. owl - 99.90%
+  2. sandpiper - 0.01%
+  3. bee - 0.01%
+
+owl_34.jpg (owl):
+  1. owl - 99.89%
+  2. sandpiper - 0.01%
+  3. zebra - 0.01%
+
+owl_9.jpg (owl):
+  1. owl - 97.41%
+  2. pigeon - 0.50%
+  3. sandpiper - 0.21%
+
+ox_11.jpg (ox):
+  1. ox - 99.51%
+  2. wolf - 0.14%
+  3. bison - 0.09%
+
+ox_19.jpg (ox):
+  1. rhinoceros - 66.17%
+  2. ox - 10.97%
+  3. dog - 2.04%
+
+ox_45.jpg (ox):
+  1. ox - 98.18%
+  2. deer - 1.61%
+  3. goat - 0.07%
+
+ox_48.jpg (ox):
+  1. ox - 99.94%
+  2. cow - 0.02%
+  3. bison - 0.01%
+
+ox_5.jpg (ox):
+  1. ox - 99.37%
+  2. cow - 0.07%
+  3. bison - 0.06%
+
+ox_53.jpg (ox):
+  1. ox - 97.81%
+  2. rhinoceros - 0.65%
+  3. wolf - 0.29%
+
+oyster_16.jpg (oyster):
+  1. oyster - 99.94%
+  2. hedgehog - 0.01%
+  3. deer - 0.01%
+
+oyster_26.jpg (oyster):
+  1. oyster - 99.65%
+  2. deer - 0.03%
+  3. reindeer - 0.03%
+
+oyster_28.jpg (oyster):
+  1. oyster - 99.46%
+  2. reindeer - 0.06%
+  3. bee - 0.05%
+
+oyster_41.jpg (oyster):
+  1. oyster - 99.01%
+  2. seahorse - 0.28%
+  3. bat - 0.06%
+
+oyster_43.jpg (oyster):
+  1. oyster - 98.79%
+  2. beetle - 0.34%
+  3. octopus - 0.12%
+
+oyster_8.jpg (oyster):
+  1. oyster - 99.99%
+  2. beetle - 0.00%
+  3. octopus - 0.00%
+
+panda_10.jpg (panda):
+  1. panda - 99.92%
+  2. hamster - 0.01%
+  3. okapi - 0.01%
+
+panda_11.jpg (panda):
+  1. panda - 97.94%
+  2. penguin - 0.33%
+  3. boar - 0.31%
+
+panda_29.jpg (panda):
+  1. panda - 99.46%
+  2. okapi - 0.04%
+  3. duck - 0.04%
+
+panda_30.jpg (panda):
+  1. panda - 99.36%
+  2. bear - 0.21%
+  3. boar - 0.14%
+
+panda_38.jpg (panda):
+  1. panda - 99.42%
+  2. boar - 0.20%
+  3. bear - 0.04%
+
+panda_54.jpg (panda):
+  1. panda - 99.71%
+  2. bear - 0.05%
+  3. boar - 0.05%
+
+parrot_13.jpg (parrot):
+  1. parrot - 99.87%
+  2. flamingo - 0.01%
+  3. otter - 0.01%
+
+parrot_25.jpg (parrot):
+  1. parrot - 99.88%
+  2. pelecaniformes - 0.02%
+  3. flamingo - 0.01%
+
+parrot_26.jpg (parrot):
+  1. parrot - 99.99%
+  2. otter - 0.00%
+  3. pelecaniformes - 0.00%
+
+parrot_31.jpg (parrot):
+  1. parrot - 99.58%
+  2. pelecaniformes - 0.05%
+  3. crow - 0.03%
+
+parrot_41.jpg (parrot):
+  1. parrot - 46.49%
+  2. mouse - 15.72%
+  3. hamster - 6.29%
+
+parrot_51.jpg (parrot):
+  1. parrot - 99.63%
+  2. flamingo - 0.04%
+  3. otter - 0.03%
+
+pelecaniformes_15.jpg (pelecaniformes):
+  1. pelecaniformes - 99.87%
+  2. swan - 0.03%
+  3. hummingbird - 0.01%
+
+pelecaniformes_2.jpg (pelecaniformes):
+  1. pelecaniformes - 99.93%
+  2. swan - 0.01%
+  3. snake - 0.01%
+
+pelecaniformes_5.jpg (pelecaniformes):
+  1. pelecaniformes - 99.92%
+  2. goat - 0.01%
+  3. snake - 0.01%
+
+pelecaniformes_56.jpg (pelecaniformes):
+  1. pelecaniformes - 99.61%
+  2. eagle - 0.16%
+  3. swan - 0.05%
+
+pelecaniformes_59.jpg (pelecaniformes):
+  1. pelecaniformes - 99.83%
+  2. goat - 0.01%
+  3. flamingo - 0.01%
+
+pelecaniformes_8.jpg (pelecaniformes):
+  1. pelecaniformes - 99.71%
+  2. snake - 0.03%
+  3. goat - 0.03%
+
+penguin_16.jpg (penguin):
+  1. penguin - 99.96%
+  2. badger - 0.00%
+  3. duck - 0.00%
+
+penguin_27.jpg (penguin):
+  1. penguin - 99.93%
+  2. duck - 0.03%
+  3. badger - 0.01%
+
+penguin_3.jpg (penguin):
+  1. penguin - 99.83%
+  2. duck - 0.07%
+  3. okapi - 0.02%
+
+penguin_30.jpg (penguin):
+  1. penguin - 99.86%
+  2. duck - 0.03%
+  3. pigeon - 0.02%
+
+penguin_37.jpg (penguin):
+  1. penguin - 99.85%
+  2. reindeer - 0.04%
+  3. badger - 0.02%
+
+penguin_55.jpg (penguin):
+  1. penguin - 99.92%
+  2. badger - 0.02%
+  3. pigeon - 0.01%
+
+pig_1.jpg (pig):
+  1. pig - 99.68%
+  2. boar - 0.06%
+  3. sheep - 0.03%
+
+pig_17.jpg (pig):
+  1. pig - 99.69%
+  2. goat - 0.11%
+  3. rhinoceros - 0.05%
+
+pig_26.jpg (pig):
+  1. pig - 97.42%
+  2. boar - 2.47%
+  3. rhinoceros - 0.02%
+
+pig_38.jpg (pig):
+  1. pig - 99.52%
+  2. boar - 0.33%
+  3. rhinoceros - 0.06%
+
+pig_41.jpg (pig):
+  1. pig - 99.40%
+  2. boar - 0.46%
+  3. goat - 0.04%
+
+pig_49.jpg (pig):
+  1. octopus - 41.05%
+  2. pig - 14.09%
+  3. cow - 7.04%
+
+pigeon_2.jpg (pigeon):
+  1. pigeon - 77.17%
+  2. fly - 3.64%
+  3. parrot - 3.17%
+
+pigeon_32.jpg (pigeon):
+  1. pigeon - 99.74%
+  2. parrot - 0.03%
+  3. duck - 0.02%
+
+pigeon_35.jpg (pigeon):
+  1. pigeon - 99.64%
+  2. penguin - 0.14%
+  3. hummingbird - 0.03%
+
+pigeon_40.jpg (pigeon):
+  1. pigeon - 99.62%
+  2. goose - 0.14%
+  3. penguin - 0.05%
+
+pigeon_53.jpg (pigeon):
+  1. pigeon - 99.83%
+  2. penguin - 0.02%
+  3. bear - 0.02%
+
+pigeon_8.jpg (pigeon):
+  1. pigeon - 47.17%
+  2. jellyfish - 39.98%
+  3. octopus - 3.82%
+
+porcupine_1.jpg (porcupine):
+  1. porcupine - 99.78%
+  2. hedgehog - 0.07%
+  3. owl - 0.03%
+
+porcupine_14.jpg (porcupine):
+  1. porcupine - 99.85%
+  2. hedgehog - 0.03%
+  3. owl - 0.02%
+
+porcupine_25.jpg (porcupine):
+  1. porcupine - 99.89%
+  2. hedgehog - 0.01%
+  3. raccoon - 0.01%
+
+porcupine_40.jpg (porcupine):
+  1. porcupine - 99.77%
+  2. hedgehog - 0.09%
+  3. raccoon - 0.01%
+
+porcupine_51.jpg (porcupine):
+  1. porcupine - 99.83%
+  2. hedgehog - 0.05%
+  3. owl - 0.01%
+
+porcupine_57.jpg (porcupine):
+  1. porcupine - 99.86%
+  2. hedgehog - 0.02%
+  3. boar - 0.01%
+
+possum_1.jpg (possum):
+  1. possum - 98.39%
+  2. owl - 0.28%
+  3. badger - 0.19%
+
+possum_19.jpg (possum):
+  1. possum - 99.38%
+  2. badger - 0.33%
+  3. cockroach - 0.06%
+
+possum_25.jpg (possum):
+  1. possum - 99.66%
+  2. mouse - 0.14%
+  3. rat - 0.09%
+
+possum_29.jpg (possum):
+  1. possum - 99.97%
+  2. cockroach - 0.01%
+  3. otter - 0.00%
+
+possum_39.jpg (possum):
+  1. possum - 99.89%
+  2. raccoon - 0.03%
+  3. mouse - 0.01%
+
+possum_55.jpg (possum):
+  1. possum - 99.98%
+  2. badger - 0.02%
+  3. raccoon - 0.00%
+
+raccoon_12.jpg (raccoon):
+  1. raccoon - 99.79%
+  2. possum - 0.02%
+  3. ox - 0.02%
+
+raccoon_23.jpg (raccoon):
+  1. raccoon - 99.96%
+  2. wolf - 0.01%
+  3. hamster - 0.00%
+
+raccoon_26.jpg (raccoon):
+  1. raccoon - 99.37%
+  2. badger - 0.19%
+  3. boar - 0.06%
+
+raccoon_5.jpg (raccoon):
+  1. raccoon - 99.92%
+  2. wolf - 0.01%
+  3. shark - 0.01%
+
+raccoon_53.jpg (raccoon):
+  1. raccoon - 97.25%
+  2. hyena - 0.73%
+  3. hamster - 0.23%
+
+raccoon_58.jpg (raccoon):
+  1. raccoon - 99.06%
+  2. badger - 0.17%
+  3. otter - 0.13%
+
+rat_2.jpg (rat):
+  1. mouse - 73.67%
+  2. hamster - 16.60%
+  3. rat - 9.45%
+
+rat_31.jpg (rat):
+  1. mouse - 72.16%
+  2. rat - 27.24%
+  3. possum - 0.53%
+
+rat_32.jpg (rat):
+  1. mouse - 98.95%
+  2. rat - 1.01%
+  3. possum - 0.01%
+
+rat_44.jpg (rat):
+  1. rat - 94.73%
+  2. mouse - 5.16%
+  3. possum - 0.02%
+
+rat_49.jpg (rat):
+  1. mouse - 98.43%
+  2. rat - 1.48%
+  3. hamster - 0.04%
+
+rat_52.jpg (rat):
+  1. rat - 64.75%
+  2. mouse - 34.87%
+  3. possum - 0.16%
+
+reindeer_15.jpg (reindeer):
+  1. reindeer - 98.86%
+  2. deer - 0.72%
+  3. dog - 0.08%
+
+reindeer_21.jpg (reindeer):
+  1. reindeer - 99.89%
+  2. ox - 0.06%
+  3. deer - 0.02%
+
+reindeer_25.jpg (reindeer):
+  1. reindeer - 99.80%
+  2. bear - 0.04%
+  3. goat - 0.03%
+
+reindeer_27.jpg (reindeer):
+  1. reindeer - 99.88%
+  2. deer - 0.04%
+  3. snake - 0.01%
+
+reindeer_51.jpg (reindeer):
+  1. reindeer - 99.72%
+  2. ox - 0.04%
+  3. hippopotamus - 0.03%
+
+reindeer_56.jpg (reindeer):
+  1. reindeer - 99.86%
+  2. deer - 0.02%
+  3. ox - 0.02%
+
+rhinoceros_2.jpg (rhinoceros):
+  1. rhinoceros - 99.86%
+  2. ox - 0.04%
+  3. horse - 0.03%
+
+rhinoceros_21.jpg (rhinoceros):
+  1. rhinoceros - 99.98%
+  2. hippopotamus - 0.00%
+  3. kangaroo - 0.00%
+
+rhinoceros_32.jpg (rhinoceros):
+  1. rhinoceros - 99.95%
+  2. ox - 0.02%
+  3. deer - 0.00%
+
+rhinoceros_34.jpg (rhinoceros):
+  1. rhinoceros - 99.12%
+  2. hippopotamus - 0.72%
+  3. elephant - 0.03%
+
+rhinoceros_53.jpg (rhinoceros):
+  1. rhinoceros - 99.99%
+  2. elephant - 0.01%
+  3. hyena - 0.00%
+
+rhinoceros_7.jpg (rhinoceros):
+  1. rhinoceros - 99.94%
+  2. ox - 0.03%
+  3. deer - 0.01%
+
+sandpiper_1.jpg (sandpiper):
+  1. sandpiper - 98.52%
+  2. goose - 0.62%
+  3. cockroach - 0.10%
+
+sandpiper_15.jpg (sandpiper):
+  1. sandpiper - 86.61%
+  2. goose - 11.64%
+  3. duck - 0.19%
+
+sandpiper_33.jpg (sandpiper):
+  1. sandpiper - 99.90%
+  2. sparrow - 0.03%
+  3. lizard - 0.01%
+
+sandpiper_35.jpg (sandpiper):
+  1. sandpiper - 99.90%
+  2. goose - 0.02%
+  3. sparrow - 0.01%
+
+sandpiper_38.jpg (sandpiper):
+  1. sandpiper - 89.46%
+  2. pelecaniformes - 5.25%
+  3. goose - 0.95%
+
+sandpiper_8.jpg (sandpiper):
+  1. sandpiper - 99.94%
+  2. sparrow - 0.01%
+  3. goose - 0.01%
+
+seahorse_12.jpg (seahorse):
+  1. seahorse - 99.72%
+  2. caterpillar - 0.07%
+  3. snake - 0.05%
+
+seahorse_15.jpg (seahorse):
+  1. seahorse - 99.60%
+  2. caterpillar - 0.06%
+  3. squid - 0.03%
+
+seahorse_21.jpg (seahorse):
+  1. seahorse - 99.96%
+  2. squid - 0.01%
+  3. jellyfish - 0.00%
+
+seahorse_3.jpg (seahorse):
+  1. seahorse - 76.39%
+  2. squid - 15.55%
+  3. octopus - 1.89%
+
+seahorse_40.jpg (seahorse):
+  1. seahorse - 99.42%
+  2. squid - 0.23%
+  3. octopus - 0.16%
+
+seahorse_44.jpg (seahorse):
+  1. seahorse - 99.89%
+  2. snake - 0.01%
+  3. lizard - 0.01%
+
+seal_27.jpg (seal):
+  1. seal - 99.53%
+  2. dolphin - 0.13%
+  3. otter - 0.08%
+
+seal_46.jpg (seal):
+  1. seal - 99.91%
+  2. otter - 0.02%
+  3. dolphin - 0.02%
+
+seal_51.jpg (seal):
+  1. seal - 98.92%
+  2. dolphin - 0.74%
+  3. otter - 0.15%
+
+seal_57.jpg (seal):
+  1. seal - 99.98%
+  2. dolphin - 0.00%
+  3. snake - 0.00%
+
+seal_7.jpg (seal):
+  1. seal - 99.34%
+  2. otter - 0.34%
+  3. hedgehog - 0.12%
+
+seal_8.jpg (seal):
+  1. seal - 99.86%
+  2. hedgehog - 0.04%
+  3. dolphin - 0.02%
+
+shark_23.jpg (shark):
+  1. shark - 99.44%
+  2. pigeon - 0.13%
+  3. bat - 0.05%
+
+shark_25.jpg (shark):
+  1. shark - 99.86%
+  2. whale - 0.02%
+  3. jellyfish - 0.01%
+
+shark_30.jpg (shark):
+  1. shark - 99.81%
+  2. whale - 0.04%
+  3. jellyfish - 0.02%
+
+shark_47.jpg (shark):
+  1. shark - 99.73%
+  2. whale - 0.07%
+  3. dolphin - 0.06%
+
+shark_57.jpg (shark):
+  1. shark - 99.89%
+  2. bat - 0.02%
+  3. pigeon - 0.02%
+
+shark_58.jpg (shark):
+  1. shark - 97.04%
+  2. jellyfish - 0.60%
+  3. bat - 0.47%
+
+sheep_19.jpg (sheep):
+  1. sheep - 99.88%
+  2. goat - 0.03%
+  3. deer - 0.01%
+
+sheep_2.jpg (sheep):
+  1. sheep - 99.48%
+  2. goat - 0.15%
+  3. grasshopper - 0.08%
+
+sheep_26.jpg (sheep):
+  1. sheep - 99.94%
+  2. goat - 0.01%
+  3. grasshopper - 0.00%
+
+sheep_36.jpg (sheep):
+  1. sheep - 99.32%
+  2. goat - 0.51%
+  3. reindeer - 0.03%
+
+sheep_39.jpg (sheep):
+  1. sheep - 20.29%
+  2. reindeer - 7.37%
+  3. penguin - 7.33%
+
+sheep_49.jpg (sheep):
+  1. sheep - 92.92%
+  2. goat - 6.60%
+  3. cow - 0.08%
+
+snake_1.jpg (snake):
+  1. snake - 99.99%
+  2. caterpillar - 0.00%
+  3. hyena - 0.00%
+
+snake_21.jpg (snake):
+  1. snake - 91.25%
+  2. octopus - 3.58%
+  3. turkey - 0.93%
+
+snake_29.jpg (snake):
+  1. snake - 99.88%
+  2. hyena - 0.02%
+  3. seahorse - 0.01%
+
+snake_35.jpg (snake):
+  1. snake - 99.92%
+  2. bat - 0.02%
+  3. lizard - 0.01%
+
+snake_41.jpg (snake):
+  1. snake - 100.00%
+  2. turtle - 0.00%
+  3. seahorse - 0.00%
+
+snake_59.jpg (snake):
+  1. snake - 99.40%
+  2. hornbill - 0.13%
+  3. caterpillar - 0.04%
+
+sparrow_24.jpg (sparrow):
+  1. sparrow - 99.88%
+  2. woodpecker - 0.03%
+  3. fly - 0.01%
+
+sparrow_29.jpg (sparrow):
+  1. sparrow - 99.01%
+  2. sandpiper - 0.13%
+  3. pelecaniformes - 0.11%
+
+sparrow_43.jpg (sparrow):
+  1. sparrow - 99.85%
+  2. woodpecker - 0.04%
+  3. fly - 0.02%
+
+sparrow_46.jpg (sparrow):
+  1. sparrow - 99.95%
+  2. fly - 0.01%
+  3. penguin - 0.01%
+
+sparrow_49.jpg (sparrow):
+  1. sparrow - 99.99%
+  2. fly - 0.00%
+  3. otter - 0.00%
+
+sparrow_52.jpg (sparrow):
+  1. sparrow - 99.97%
+  2. woodpecker - 0.01%
+  3. squirrel - 0.00%
+
+squid_23.jpg (squid):
+  1. squid - 99.62%
+  2. octopus - 0.25%
+  3. deer - 0.02%
+
+squid_31.jpg (squid):
+  1. squid - 99.38%
+  2. octopus - 0.52%
+  3. jellyfish - 0.01%
+
+squid_45.jpg (squid):
+  1. squid - 99.84%
+  2. goldfish - 0.07%
+  3. octopus - 0.02%
+
+squid_48.jpg (squid):
+  1. squid - 99.77%
+  2. goldfish - 0.17%
+  3. octopus - 0.03%
+
+squid_52.jpg (squid):
+  1. squid - 99.18%
+  2. octopus - 0.72%
+  3. lobster - 0.02%
+
+squid_53.jpg (squid):
+  1. squid - 55.29%
+  2. octopus - 43.58%
+  3. starfish - 0.28%
+
+squirrel_10.jpg (squirrel):
+  1. squirrel - 98.67%
+  2. hamster - 0.33%
+  3. mouse - 0.30%
+
+squirrel_13.jpg (squirrel):
+  1. squirrel - 99.22%
+  2. raccoon - 0.31%
+  3. hamster - 0.08%
+
+squirrel_16.jpg (squirrel):
+  1. squirrel - 99.93%
+  2. hamster - 0.01%
+  3. raccoon - 0.01%
+
+squirrel_21.jpg (squirrel):
+  1. squirrel - 79.23%
+  2. coyote - 6.52%
+  3. donkey - 1.42%
+
+squirrel_35.jpg (squirrel):
+  1. squirrel - 99.76%
+  2. hamster - 0.04%
+  3. coyote - 0.04%
+
+squirrel_46.jpg (squirrel):
+  1. squirrel - 99.90%
+  2. octopus - 0.01%
+  3. boar - 0.01%
+
+starfish_1.jpg (starfish):
+  1. starfish - 99.84%
+  2. octopus - 0.02%
+  3. crab - 0.01%
+
+starfish_23.jpg (starfish):
+  1. starfish - 99.84%
+  2. seahorse - 0.04%
+  3. octopus - 0.02%
+
+starfish_25.jpg (starfish):
+  1. starfish - 99.85%
+  2. otter - 0.02%
+  3. dog - 0.01%
+
+starfish_27.jpg (starfish):
+  1. starfish - 99.80%
+  2. seahorse - 0.02%
+  3. otter - 0.02%
+
+starfish_46.jpg (starfish):
+  1. starfish - 94.16%
+  2. seahorse - 2.25%
+  3. octopus - 1.88%
+
+starfish_54.jpg (starfish):
+  1. starfish - 99.78%
+  2. octopus - 0.16%
+  3. seahorse - 0.03%
+
+swan_21.jpg (swan):
+  1. swan - 97.30%
+  2. goose - 1.80%
+  3. pelecaniformes - 0.42%
+
+swan_24.jpg (swan):
+  1. swan - 99.41%
+  2. flamingo - 0.28%
+  3. goose - 0.09%
+
+swan_27.jpg (swan):
+  1. swan - 99.97%
+  2. goose - 0.02%
+  3. pelecaniformes - 0.01%
+
+swan_44.jpg (swan):
+  1. swan - 47.26%
+  2. flamingo - 22.70%
+  3. pelecaniformes - 10.92%
+
+swan_50.jpg (swan):
+  1. swan - 99.82%
+  2. duck - 0.05%
+  3. goose - 0.04%
+
+swan_55.jpg (swan):
+  1. swan - 99.07%
+  2. goose - 0.80%
+  3. duck - 0.05%
+
+tiger_11.jpg (tiger):
+  1. tiger - 99.29%
+  2. orangutan - 0.15%
+  3. possum - 0.13%
+
+tiger_19.jpg (tiger):
+  1. tiger - 99.93%
+  2. cat - 0.02%
+  3. orangutan - 0.01%
+
+tiger_23.jpg (tiger):
+  1. tiger - 99.94%
+  2. cat - 0.02%
+  3. bison - 0.01%
+
+tiger_47.jpg (tiger):
+  1. tiger - 99.93%
+  2. cat - 0.02%
+  3. lion - 0.01%
+
+tiger_50.jpg (tiger):
+  1. tiger - 99.62%
+  2. possum - 0.12%
+  3. orangutan - 0.05%
+
+tiger_59.jpg (tiger):
+  1. tiger - 99.91%
+  2. orangutan - 0.01%
+  3. cat - 0.01%
+
+turkey_19.jpg (turkey):
+  1. turkey - 99.90%
+  2. boar - 0.03%
+  3. goose - 0.01%
+
+turkey_24.jpg (turkey):
+  1. turkey - 99.79%
+  2. boar - 0.05%
+  3. pigeon - 0.03%
+
+turkey_34.jpg (turkey):
+  1. turkey - 99.90%
+  2. boar - 0.02%
+  3. goose - 0.02%
+
+turkey_39.jpg (turkey):
+  1. turkey - 99.78%
+  2. boar - 0.05%
+  3. goose - 0.03%
+
+turkey_54.jpg (turkey):
+  1. turkey - 99.66%
+  2. pigeon - 0.09%
+  3. goose - 0.06%
+
+turkey_56.jpg (turkey):
+  1. turkey - 99.95%
+  2. pigeon - 0.01%
+  3. boar - 0.01%
+
+turtle_27.jpg (turtle):
+  1. turtle - 99.79%
+  2. hare - 0.05%
+  3. hummingbird - 0.01%
+
+turtle_34.jpg (turtle):
+  1. turtle - 99.97%
+  2. fox - 0.00%
+  3. hare - 0.00%
+
+turtle_36.jpg (turtle):
+  1. turtle - 99.98%
+  2. fox - 0.00%
+  3. hare - 0.00%
+
+turtle_46.jpg (turtle):
+  1. turtle - 99.55%
+  2. seahorse - 0.04%
+  3. boar - 0.03%
+
+turtle_52.jpg (turtle):
+  1. turtle - 99.19%
+  2. snake - 0.17%
+  3. cockroach - 0.08%
+
+turtle_59.jpg (turtle):
+  1. turtle - 99.90%
+  2. whale - 0.01%
+  3. hare - 0.01%
+
+whale_1.jpg (whale):
+  1. whale - 95.41%
+  2. dolphin - 2.94%
+  3. shark - 0.72%
+
+whale_12.jpg (whale):
+  1. whale - 99.87%
+  2. dolphin - 0.05%
+  3. shark - 0.03%
+
+whale_19.jpg (whale):
+  1. whale - 99.84%
+  2. elephant - 0.02%
+  3. flamingo - 0.02%
+
+whale_51.jpg (whale):
+  1. whale - 99.21%
+  2. dolphin - 0.49%
+  3. shark - 0.11%
+
+whale_52.jpg (whale):
+  1. whale - 70.42%
+  2. ox - 6.84%
+  3. octopus - 5.33%
+
+whale_58.jpg (whale):
+  1. whale - 99.46%
+  2. shark - 0.18%
+  3. dolphin - 0.13%
+
+wolf_32.jpg (wolf):
+  1. wolf - 99.52%
+  2. coyote - 0.41%
+  3. dog - 0.01%
+
+wolf_4.jpg (wolf):
+  1. coyote - 60.72%
+  2. wolf - 13.15%
+  3. horse - 7.76%
+
+wolf_41.jpg (wolf):
+  1. coyote - 86.72%
+  2. wolf - 13.08%
+  3. dog - 0.06%
+
+wolf_43.jpg (wolf):
+  1. wolf - 99.82%
+  2. dog - 0.06%
+  3. coyote - 0.04%
+
+wolf_51.jpg (wolf):
+  1. wolf - 94.52%
+  2. dog - 4.62%
+  3. raccoon - 0.24%
+
+wolf_52.jpg (wolf):
+  1. wolf - 96.59%
+  2. coyote - 3.10%
+  3. dog - 0.09%
+
+wombat_16.jpg (wombat):
+  1. wombat - 98.36%
+  2. hedgehog - 0.63%
+  3. bear - 0.21%
+
+wombat_2.jpg (wombat):
+  1. wombat - 99.77%
+  2. raccoon - 0.04%
+  3. pelecaniformes - 0.02%
+
+wombat_26.jpg (wombat):
+  1. wombat - 99.67%
+  2. boar - 0.21%
+  3. bee - 0.01%
+
+wombat_38.jpg (wombat):
+  1. wombat - 99.47%
+  2. shark - 0.04%
+  3. donkey - 0.04%
+
+wombat_48.jpg (wombat):
+  1. wombat - 99.63%
+  2. kangaroo - 0.12%
+  3. bat - 0.04%
+
+wombat_5.jpg (wombat):
+  1. wombat - 99.72%
+  2. kangaroo - 0.20%
+  3. rhinoceros - 0.01%
+
+woodpecker_12.jpg (woodpecker):
+  1. woodpecker - 99.58%
+  2. pigeon - 0.12%
+  3. boar - 0.04%
+
+woodpecker_14.jpg (woodpecker):
+  1. woodpecker - 99.94%
+  2. pelecaniformes - 0.02%
+  3. sandpiper - 0.01%
+
+woodpecker_21.jpg (woodpecker):
+  1. woodpecker - 99.80%
+  2. cockroach - 0.03%
+  3. pelecaniformes - 0.02%
+
+woodpecker_4.jpg (woodpecker):
+  1. woodpecker - 99.81%
+  2. sparrow - 0.03%
+  3. cockroach - 0.02%
+
+woodpecker_45.jpg (woodpecker):
+  1. woodpecker - 98.19%
+  2. pelecaniformes - 0.67%
+  3. goose - 0.37%
+
+woodpecker_47.jpg (woodpecker):
+  1. woodpecker - 99.93%
+  2. pelecaniformes - 0.01%
+  3. boar - 0.01%
+
+zebra_1.jpg (zebra):
+  1. zebra - 99.85%
+  2. tiger - 0.02%
+  3. lion - 0.02%
+
+zebra_3.jpg (zebra):
+  1. zebra - 99.89%
+  2. leopard - 0.01%
+  3. tiger - 0.01%
+
+zebra_31.jpg (zebra):
+  1. zebra - 99.79%
+  2. caterpillar - 0.05%
+  3. leopard - 0.02%
+
+zebra_35.jpg (zebra):
+  1. zebra - 99.91%
+  2. leopard - 0.02%
+  3. butterfly - 0.01%
+
+zebra_55.jpg (zebra):
+  1. zebra - 99.83%
+  2. leopard - 0.05%
+  3. tiger - 0.03%
+
+zebra_57.jpg (zebra):
+  1. zebra - 99.84%
+  2. okapi - 0.02%
+  3. tiger - 0.02%
+

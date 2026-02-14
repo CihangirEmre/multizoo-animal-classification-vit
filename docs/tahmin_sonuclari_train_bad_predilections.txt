@@ -1,0 +1,90 @@
+[WRONG PREDICTION] antelope_16.jpg (True: antelope)
+  1. kangaroo - 44.32%
+  2. deer - 31.24%
+  3. coyote - 17.57%
+
+[WRONG PREDICTION] antelope_34.jpg (True: antelope)
+  1. deer - 27.29%
+  2. hare - 14.98%
+  3. mouse - 9.27%
+
+[LOW CONFIDENCE] badger_9.jpg (True: badger)
+  1. badger - 77.06%
+
+[WRONG PREDICTION] bear_34.jpg (True: bear)
+  1. otter - 69.21%
+  2. bear - 18.01%
+  3. seal - 6.71%
+
+[LOW CONFIDENCE] bee_26.jpg (True: bee)
+  1. bee - 32.97%
+
+[LOW CONFIDENCE] bee_55.jpg (True: bee)
+  1. bee - 73.71%
+
+[LOW CONFIDENCE] cat_7.jpg (True: cat)
+  1. cat - 45.15%
+
+[WRONG PREDICTION] caterpillar_13.jpg (True: caterpillar)
+  1. moth - 27.34%
+  2. caterpillar - 23.26%
+  3. possum - 15.49%
+
+[WRONG PREDICTION] caterpillar_19.jpg (True: caterpillar)
+  1. squid - 10.00%
+  2. horse - 7.67%
+  3. butterfly - 7.00%
+
+[LOW CONFIDENCE] caterpillar_34.jpg (True: caterpillar)
+  1. caterpillar - 69.54%
+
+[WRONG PREDICTION] caterpillar_40.jpg (True: caterpillar)
+  1. snake - 22.14%
+  2. rhinoceros - 13.11%
+  3. badger - 8.03%
+
+[WRONG PREDICTION] caterpillar_52.jpg (True: caterpillar)
+  1. moth - 61.55%
+  2. butterfly - 13.16%
+  3. hedgehog - 12.92%
+
+[LOW CONFIDENCE] caterpillar_59.jpg (True: caterpillar)
+  1. caterpillar - 86.06%
+
+[WRONG PREDICTION] cow_43.jpg (True: cow)
+  1. ox - 67.14%
+  2. cow - 32.21%
+  3. goat - 0.12%
+
+[LOW CONFIDENCE] crab_49.jpg (True: crab)
+  1. crab - 84.10%
+
+[LOW CONFIDENCE] dog_11.jpg (True: dog)
+  1. dog - 69.25%
+
+[WRONG PREDICTION] dog_21.jpg (True: dog)
+  1. hamster - 8.72%
+  2. dog - 8.17%
+  3. seal - 6.64%
+
+[LOW CONFIDENCE] dolphin_8.jpg (True: dolphin)
+  1. dolphin - 88.90%
+
+[LOW CONFIDENCE] flamingo_49.jpg (True: flamingo)
+  1. flamingo - 83.07%
+
+[LOW CONFIDENCE] fox_35.jpg (True: fox)
+  1. fox - 88.27%
+
+[LOW CONFIDENCE] fox_43.jpg (True: fox)
+  1. fox - 87.57%
+
+[LOW CONFIDENCE] goat_46.jpg (True: goat)
+  1. goat - 83.39%
+
+[LOW CONFIDENCE] goose_59.jpg (True: goose)
+  1. goose - 52.85%
+
+[LOW CONFIDENCE] hamster_29.jpg (True: hamster)
+  1. hamster - 58.90%
+
